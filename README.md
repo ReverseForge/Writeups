@@ -23,7 +23,7 @@ ID assignments are pending; internal tracking codes are used until MITRE publish
 |:--|:-----------|:-----------------|:---------|:-----|
 | 1 | CVE-2026-3291  | Samsung Print Service Plugin | Medium (6.9)   |  Information Disclosure |
 | 2 | CVE-2025-63757 | FFMPEG                       | High (7.5)     | Integer overflow - Potential to heap overflow   |
-| 3 | CVE-2025-50681 | igmpproxy                    | Medium (5.4)   | Information Disclosure  |
+| 3 | CVE-2025-50681 | igmpproxy                    | Medium (5.4)   | DOS  |
 
 🔒 Full technical details will appear in the `writeups/` folder **after** the coordinated disclosure process is complete.  
 👉 [Read our full disclosure policy in the organization](https://github.com/ReverseForge/.github/blob/main/SECURITY.md).
