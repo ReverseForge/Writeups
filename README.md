@@ -22,7 +22,7 @@ ID assignments are pending; internal tracking codes are used until MITRE publish
 | # | Identifier | Affected Product | Severity | Type |
 |:--|:-----------|:-----------------|:---------|:-----|
 | 1 | CVE-2026-3291  | Samsung Print Service Plugin | Medium (6.9)   |  Information Disclosure |
-| 2 | CVE-2025-63757 | FFMPEG                       | High (7.5)     | Remote Code Execution   |
+| 2 | CVE-2025-63757 | FFMPEG                       | High (7.5)     | Integer overflow - Potential to heap overflow   |
 | 3 | CVE-2025-50681 | igmpproxy                    | Medium (5.4)   | Information Disclosure  |
 
 🔒 Full technical details will appear in the `writeups/` folder **after** the coordinated disclosure process is complete.  
