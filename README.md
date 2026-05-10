@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ReverseForge/.github/blob/main/profile/assets/ReverseForge-logo-2.jpg" alt="ReverseForge Logo" width="160"/>
+  <img src="https://github.com/ReverseForge/.github/blob/main/profile/assets/ReverseForge-logo-2.jpg" alt="ReverseForge Logo" width="1000"/>
 </p>
 
 <h1 align="center">⚒️ Writeups</h1>
@@ -36,7 +36,6 @@ ID assignments are pending; internal tracking codes are used until MITRE publish
 |:---|:---|
 | `writeups/` | Individual advisory files — one `.md` per vulnerability, following a strict template. |
 | `assets/` | Proof‑of‑concept scripts, screenshots, and diagrams referenced in writeups. |
-| `templates/` | The reusable [advisory template](templates/advisory-template.md) that guarantees consistency. |
 | `README.md` | This file. |
 | `.gitignore` | Prevents OS/IDE junk from being committed. |
 
