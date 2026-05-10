@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/...-..." alt="ReverseForge Logo" width="160"/>
+  <img src="https://github.com/ReverseForge/.github/blob/main/profile/assets/ReverseForge-logo-2.jpg" alt="ReverseForge Logo" width="160"/>
 </p>
 
 <h1 align="center">⚒️ Writeups</h1>
