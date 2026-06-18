@@ -1,5 +1,5 @@
 # Telegram file format 0day analysis
-
+> **Researchers:** [Mi0r4](https://github.com/miora-sora)  & [Mehrdoost](https://github.com/Mehrdoost)
 ```
 news:
 https://restoreprivacy.com/telegram-for-android-hit-by-zero-day-evilvideo-exploit/
