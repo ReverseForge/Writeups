@@ -1,4 +1,6 @@
 # After the war   public drainer analysis 
+> **Researchers:** [Mi0r4](https://github.com/miora-sora)  & [Mehrdoost](https://github.com/Mehrdoost)
+
 
 One of the reasons why, instead of working on vulnerabilities during my day job, I spend my free time on malware analysis is that I’m looking for the vulnerabilities being used in the wild. The good thing about this process is that the exploits and their exploitation structure are fully prepared — it’s just that the behavior might get detected; otherwise, everything we need is right there for us.
 
