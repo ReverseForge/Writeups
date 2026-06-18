@@ -1,5 +1,7 @@
 # How i hacked my first drone ?
 
+> **Researchers:** [Mi0r4](https://github.com/miora-sora)  & [Mehrdoost](https://github.com/Mehrdoost)
+
 so hello to day i want to tell you story how i get the drone and how i hack it i cant tell you the name of company sorry about it but about other part of it we will research on structures and protocols and part of drones i search for vulnerability i have some other vulnerability also but this part of it is best 
 
 
