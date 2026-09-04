@@ -48,7 +48,7 @@ Everything is kept minimal and action‑oriented — no duplication of organizat
 ReverseForge is a two‑person security research cell.  
 For more about the team, our mission, and the tools we use, visit the [organization profile](https://github.com/ReverseForge).
 
-📧 **Contact:** `team@reverseforge.dev`
+📧 **Contact:** `!`
 
 ---
 
